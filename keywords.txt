@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+# https://arduino.github.io/arduino-cli/0.21/library-specification/#keywordstxt-format
+# KEYWORD1 Classes, datatypes, and C++ keywords
+# KEYWORD2 Methods and functions
+# KEYWORD3 setup and loop functions, as well as the Serial keywords
+# LITERAL1 Constants
+# LITERAL2 Built-in variables (unused by default)
+
+
+#######################################
+# Classes, datatypes (KEYWORD1)
+#######################################
+portExp
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init
+LED
+buzzer
+buzzerBeep
+allBtuton
+readButton
+waitButton_Press
+waitButton_PressAndRelease
+
+######################################
+# Constants (LITERAL1)
+#######################################
+OFF
+GREEN
+BLUE
+RED
+buttonA
+buttonB
+buttonC
